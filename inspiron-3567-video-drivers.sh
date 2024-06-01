@@ -8,6 +8,8 @@ sudo pacman -S --needed intel-compute-runtime --noconfirm
 sudo pacman -S --needed xf86-video-amdgpu --noconfirm
 sudo pacman -S --needed vulkan-radeon --noconfirm
 sudo pacman -S --needed lib32-vulkan-radeon --noconfirm
+sudo pacman -S --needed vulkan-icd-loader --noconfirm
+sudo pacman -S --needed lib32-vulkan-icd-loader --noconfirm
 sudo pacman -S --needed libva-mesa-driver --noconfirm
 sudo pacman -S --needed lib32-libva-mesa-driver --noconfirm
 
