@@ -1,8 +1,8 @@
 # archlinux-drivers
 
-git clone https://github.com/linuxosuser/archlinux-drivers.git
+git clone https://github.com/linuxosuser/manjaro-drivers.git
 
-cd archlinux-drivers
+cd manjaro-drivers
 
 chmod +x *.sh
 
